@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Theme Setup
-modified: 2016-01-19
+title: Ultimate Conference Guide
+modified: 2014-07-31
 excerpt: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
 image:
   feature: sample-image-3.jpg
@@ -10,6 +10,8 @@ image:
 ---
 
 {% include _toc.html %}
+
+**This is work in progress. You can stop reading here.**
 
 ## Installation
 

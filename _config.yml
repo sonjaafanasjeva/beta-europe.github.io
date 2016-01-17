@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title:            Bringing Europeans Together Association e.V. (BETA)
+locale:           en_UK
+url:              http://www.beta-europe.org
 
 
 # Jekyll configuration
@@ -41,21 +41,21 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: BETA e.V.
+  avatar:
+  bio: "Bringing Europeans Together Association"
+  email: contact@beta-europe.org
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: BETA_Europe
+  facebook: BringingEuropeansTogetherAssociation
   google:
     plus: #username
-    analytics:
+    analytics: UA-70785498-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: beta-europe
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

@@ -3,8 +3,17 @@
 - title: About
   url: /about/
 
-- title: Sample Posts
+- title: News
   url: /posts/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Contact
+  url: /contact/
+
+- title: Ultimate Conference Guide
+  url: /guide/
+
+- title: Model EU Calendar
+  url: /calendar/
+
+- title: Community Forum
+  url: http://forum.beta-europe.org
