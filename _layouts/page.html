@@ -44,6 +44,9 @@
     {% if site.owner.disqus-shortname and page.comments == true %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}
+    {% if site.owner.discourse-url and page.comments == true %}
+      <section id="discourse-comments"></section><!-- /#discourse_thread -->
+    {% endif %}
   </article>
 </div><!-- /#index -->
 
