@@ -3,7 +3,7 @@ layout: page
 title: Contact
 tags: [contact, BETA, partners]
 modified: 2016-01-16T20:53:07.573882-04:00
-comments: true
+comments: false
 ---
 
 There are many ways to contact BETA. Please refer to the links provided to the

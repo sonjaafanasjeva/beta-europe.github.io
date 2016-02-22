@@ -3,7 +3,7 @@ layout: page
 title: About BETA
 tags: [about, BETA, Bringing Europeans Together Association, Model European Union, Conference, European Union]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
   feature: beta-assembly-2015.jpg
 ---
