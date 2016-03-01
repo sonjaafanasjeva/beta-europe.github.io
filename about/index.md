@@ -8,6 +8,8 @@ image:
   feature: beta-assembly-2015.jpg
 ---
 
+## Who we are:
+
 This is a short description, an opener. Lorem ipsum dolor sit amet, consectetur
 adipiscing elit. Donec sodales dignissim sapien, vel vestibulum augue malesuada
 sed. Sed non tellus vehicula, dignissim nunc feugiat, condimentum tellus. Morbi
@@ -15,7 +17,7 @@ tempor pulvinar sem. Pellentesque condimentum nulla eu purus lobortis fringilla.
 
 ## BETA is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Very responsive templates. Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
 * Minimal embellishments -- content first.
 * Optional large feature images for posts and pages.
