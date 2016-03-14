@@ -10,19 +10,22 @@ image:
 
 ## Who we are:
 
-This is a short description, an opener. Lorem ipsum dolor sit amet, consectetur
-adipiscing elit. Donec sodales dignissim sapien, vel vestibulum augue malesuada
-sed. Sed non tellus vehicula, dignissim nunc feugiat, condimentum tellus. Morbi
-tempor pulvinar sem. Pellentesque condimentum nulla eu purus lobortis fringilla.
+Bringing Europeans Together Association e.V. (BETA) is a politically independent and non-profit association founded in August 2008 by 9 young Europeans in Mainz, Germany. 
+BETA e.V. now counts more than 400 members from all across Europe, most of them being students and young professionals.
 
-## BETA is all about:
+##Our main goals are:
 
-* Very responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+To foster a European identity and consciousness based on plurality, tolerance and cooperation between individuals, as well as strengthening the European civil society by further developing democratic processes on the national and international levels.
+To establish sustainable administrative structures that ensure the success of the Model European Union (MEU) event in Strasbourg and other similar events.
 
-<a markdown="0" href="{{ site.url }}/contact" class="btn">Conact</a>
+We are eager to provide all young people with opportunities and means to discover the founding principles behind Europe.
+
+We intend to do so by offering them the possibility to better understand the political system they are part of as citizens. We believe everyone can and should engage in politics to the level of their own interest. Regardless of the perception they have of the current political establishment, young people need to understand it in order to be able to actively participate in it and contribute to it with original ideas. In a few words, we believe in the power of the youth to shape European life.
+
+Even though the association is registered in Germany, BETA sees itself as a European association. Therefore, we mainly communicate and manage our projects online. However, we also organise international meetings for closer cooperation and to foster friendships between our members.  This enables everybody from across Europe to join in and engage in our projects.
+
+Come and join the most challenging experience together with us, together with BETA!
+
+
+
+<a markdown="0" href="{{ site.url }}/contact" class="btn">Contact</a>
