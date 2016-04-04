@@ -13,7 +13,7 @@ image:
 Bringing Europeans Together Association e.V. (BETA) is a politically independent and non-profit association founded in August 2008 by 9 young Europeans in Mainz, Germany. 
 BETA e.V. now counts more than 400 members from all across Europe, most of them being students and young professionals.
 
-##Our main goals are:
+## Our main goals are:
 
 To foster a European identity and consciousness based on plurality, tolerance and cooperation between individuals, as well as strengthening the European civil society by further developing democratic processes on the national and international levels.
 To establish sustainable administrative structures that ensure the success of the Model European Union (MEU) event in Strasbourg and other similar events.
