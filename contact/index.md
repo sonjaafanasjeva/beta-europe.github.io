@@ -34,3 +34,5 @@ If you are organising your own MEU simulation and would like to join our partner
 Then, you will be able to apply for a partnership agreement with BETA. 
 We encourage you to join our network since you will benefit from BETA's support as well as all other MEU partners' experiences. 
 You can contact us at contact@beta-europe.org to know more about our partnership programme. 
+
+{% include _newsletter-subscribe.html %}

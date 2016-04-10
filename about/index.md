@@ -29,3 +29,6 @@ Come and join the most challenging experience together with us, together with BE
 
 
 <a markdown="0" href="{{ site.url }}/contact" class="btn">Contact</a>
+
+
+{% include _newsletter-subscribe.html %}
