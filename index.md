@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+excerpt: "Bringing Europeans Together Association e.V. (BETA) is a politically independent and non-profit association supporting the organisation of EU politics simulations."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: header-meu2015.jpg
