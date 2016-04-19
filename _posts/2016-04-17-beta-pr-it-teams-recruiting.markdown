@@ -23,6 +23,7 @@ Contact Karin Karakaya (<k.karakaya@beta-europe.org>) if you're interested in be
 - Work on developing and implementing a PR strategy;
 - Create content for and promote BETA through all relevant channels: website, newsletter, (social) media,...;
 - Take care of one or more PR channels and/or manage projects located in the PR team (as agreed with the Head of PR).
+
 **Needed background, competences and skills:**
 
 - Background in PR (preferred);
