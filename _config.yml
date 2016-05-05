@@ -72,6 +72,29 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
-
+  
+  
+collections:
+  conferences:
+    output: true
+    permalink: /conference/:path/
+  partners:
+    output: true
+    permalink: /partner/:path/
+    
+defaults:
+  - scope:
+      path: ""
+      type: conferences
+    values:
+      layout: conference_page
+      comments: false
+  - scope:
+      path: ""
+      type: partners
+    values:
+      layout: partner_page
+      comments: false
+  
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
