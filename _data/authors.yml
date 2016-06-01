@@ -23,7 +23,9 @@ robert_riemann:
   name: Robert Riemann
   email: r.riemann@beta-europe.org
   bio: "Mein Name sei Gantenbein."
-  avatar: bio-photo.jpg
+  web: http://blog.riemann.cc
+  avatar: bio-rriemann.jpg
   twitter: rriemann_eu
+  github: rriemann
   google:
     plus: RobertRiemann
