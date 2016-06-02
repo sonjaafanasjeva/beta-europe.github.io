@@ -8,7 +8,7 @@ website: http://www.brusselsmeu.org/
 year: 2016
 begin: null
 end: null
-participants:
+participants:150
 town: Brussels
 country: Belgium
 location: Marriott Hotel Grand Place
